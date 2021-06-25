@@ -1,0 +1,4 @@
+cd documents/apps/dunder-mifflinaire/website-support
+git add .
+git commit -m "app-ads.txt"
+git push

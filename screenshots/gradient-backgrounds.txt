@@ -1,0 +1,10 @@
+# Screenshot Sizes
+shift + i on terminal
+width x height
+iPhone 8 Plus 5.5 inch 1242x2208 - use iPhone 8 Plus
+iPhone 11 6.5 inch 1242x2688 - use iPhone 12 Pro Max
+iPad Pro 3rd Gen 12.9 inch 2048x2732 - use iPad Pro 12.9-inch 5th Gen
+
+
+# Font
+Menlo 16
